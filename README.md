@@ -1,4 +1,4 @@
-# IJCAI2021
+# NIPS2021
 Code for paper 'Lightweight and Flexible Uncertainty Estimation by the Meta-learning Supervisor ANN for the Established Face Recognizing CNN Models'
 
 List of files:
@@ -13,7 +13,7 @@ Resnet50Detail_bc2msr.m
 
 To configure, find and modify the following fragment:
   %% CONFIGURATION PARAMETERS:
-  % Download BookClub dataset from: https://data.mendeley.com/datasets/yfx9h649wz/2
+  % Download BookClub dataset from: https://data.mendeley.com/datasets/yfx9h649wz/3
   % and unarchive it into the dierctory below:
   %% Dataset root folder template and suffix
   dataFolderTmpl = '~/data/BC2_Sfx';
